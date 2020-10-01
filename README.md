@@ -22,7 +22,7 @@
 #### Find email address of a user
 `python zen.py username`
 
-or
+or/and
 
 `python zen.py https://github.com/username`
 
@@ -30,7 +30,7 @@ or
 `python zen.py https://github.com/username/repository`
 
 
-#### Find email addresses of members of an organization
+#### Find email addresses of members of an organization 
 `python zen.py organization --org`
 
 or
