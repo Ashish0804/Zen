@@ -3,7 +3,7 @@
   <a href="https://github.com/s0md3v/Zen"><img src="https://image.ibb.co/eNj5Qf/zenlogo.png" alt="Zen"></a>
 </h1>
 
-<h4 align="center">Find email addresses of Github users</h4>
+<h4 align="center">Find email addresses of Github Users</h4>
 
 <p align="center">
   <a href="https://github.com/s0md3v/Zen/releases">
