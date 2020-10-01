@@ -22,7 +22,7 @@
 #### Find email address of a user
 `python zen.py username`
 
-or
+OR
 
 `python zen.py https://github.com/username`
 
